@@ -12,6 +12,8 @@ This is a work in progress, your feedback is important, please join the [discuss
 
 The first online meetup of `Solid Practitioners` will be held on Friday, December 1 at 14:00 UTC at https://meet.jit.si/solid-practitioners.
 
+Please email me (dubzed@gmail.com) to be included in infrequent emails related to the group and event invites.
+
 ### Scope
 
 In addition to technical issues, the group's discussion may also include the social impact of Solid projects and issues related to the adoption of Solid by public agencies and other organizations.  The focus will be on "getting things done with what exists" rather than on specification-related issues which will be referred to the [W3C Solid Community Group](https://www.w3.org/community/solid/). Another focus will be on networking between projects - for example collarborating on the development of ontologies or a common codebase.  Onboarding new developers will be left to the [onboarding team](https://github.com/solid-contrib/getting-started) although internships with existing practitioners can provide a pathway for new developers as well.
