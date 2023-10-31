@@ -10,7 +10,7 @@ The goal of `Solid Practitioners` is to support a diverse range of people and or
 
 This is a work in progress, your feedback is important, please join the [discussion on this README](https://github.com/solid-contrib/practitioners/discussions/1), the [discussion on roles and functions](https://github.com/solid-contrib/practitioners/discussions/2) or the [gitter chatroom](https://app.gitter.im/#/room/#solid-practitioners:matrix.org).
 
-The first online meetup of `Solid Practitioners` will be held on Friday, December 1 at 14:00 UTC at https://meet.jit.si/solid-practitioners.
+The first online meetup of `Solid Practitioners` will be held on Friday, 10 November at 14:00 UTC at https://meet.jit.si/solid-practitioners.
 
 Please email me (dubzed@gmail.com) to be included in infrequent emails related to the group and event invites.
 
