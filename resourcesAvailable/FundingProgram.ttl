@@ -1,0 +1,132 @@
+####
+# FUNDING PROGRAMS
+#   originally from solidproject.org website
+#   PR'd here by Timea Turdean https://github.com/solid-contrib/practitioners/pull/3
+#   preliminary RDF by Jeff Zucker 2023-11-20
+#
+#  PLEASE ADD/CORRECT VIA PR AND COMMENT ON RDF STRUCTURE VIA ISSUES
+####
+
+@prefix : <#> .
+@prefix roh: <http://w3id.org/roh/0.3/#> .
+@prefix schema: <http://schema.org/> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
+:CCIG 
+  a roh:FundingProgram ; 
+  rdfs:label "Consensus Community Innovation Grants"@en ;
+  schema:website <http://agree.org/> ;
+  rdfs:description "?" ;
+  schema:website <http://agree.org/> ;
+  roh:hasFundingProgramClassification "?" .
+
+:DDG 
+  a roh:FundingProgram ; 
+  rdfs:label "DuckDuckGo Donations"@en ;
+  schema:website <https://duckduckgo.com/donations> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+:DAPSI
+  a roh:FundingProgram ; 
+  rdfs:label "EU DAPSI"@en ;
+  schema:website <https://dapsi.ngi.eu/> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+:GithubSponsors
+  a roh:FundingProgram ; 
+  rdfs:label "GitHub Sponsors"@en ;
+  schema:website  <https://github.com/sponsors> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+:GrantForTheWeb
+  a roh:FundingProgram ; 
+  rdfs:label "Grant for the web"@en ;
+  schema:website <https://forum.grantfortheweb.org/t/call-for-proposals-early-2020/959> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+:BAAS
+  a roh:FundingProgram ; 
+  rdfs:label "Je Data de Baas by SIDN"@en ;
+  schema:website <https://www.sidnfonds.nl/nieuws/follow-up-call-je-data-de-baas> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+:Ledger
+  a roh:FundingProgram ; 
+  rdfs:label "Ledger Project"@en ;
+  schema:website <https://ledgerproject.eu> ;
+  rdfs:description "?"@en ;
+  roh:hasFundingProgramClassification "?" .
+
+:MozillaOpenScience
+  a roh:FundingProgram ; 
+  rdfs:label "Mozilla Open Science Mini Grants"@en ;
+  schema:website <https://docs.google.com/document/d/1EJXg9G01CG7dBRbmbZzFnB9Bex2ibAVza_4xE8iqQqI/edit> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+:MozillaOpenSource
+  a roh:FundingProgram ; 
+  rdfs:label "Mozilla Open Source Support"@en ;
+  schema:website  <https://www.mozilla.org/en-US/moss/> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+:NGIPointer
+  a roh:FundingProgram ; 
+  rdfs:label "NGI Pointer"@en ;
+  schema:website <https://www.ngi.eu/ngi-projects/ngi-pointer/> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+
+:NLNET
+  a roh:FundingProgram ; 
+  rdfs:label "NLNET Foundation"@en ;
+  schema:website <https://nlnet.nl> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+
+:NGI
+  a roh:FundingProgram ; 
+  rdfs:label "Next Generation Internet"@en ;
+  schema:website <https://www.ngi.eu> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+
+:SIDN
+  a roh:FundingProgram ; 
+  rdfs:label "SIDN Fonds"@en ;
+  schema:website <https://www.sidnfonds.nl/excerpt/> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+
+:Slack
+  a roh:FundingProgram ; 
+  rdfs:label "Slack Fund"@en ;
+  schema:website <https://slack.com/developers/fund> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+
+:KnightFoundation
+  a roh:FundingProgram ; 
+  rdfs:label "The Knight Foundation"@en ;
+  schema:website <https://knightfoundation.org> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
+
+
+:KnightFoundationTechnologyInnovation
+  a roh:FundingProgram ; 
+  rdfs:label "The Knight Foundation for Technology Innovation"@en ;
+  schema:website <https://knightfoundation.org/programs/technology> ;
+  rdfs:description "?" ;
+  roh:hasFundingProgramClassification "?" .
