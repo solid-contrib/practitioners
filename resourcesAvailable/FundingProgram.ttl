@@ -4,7 +4,7 @@
 #   PR'd here by Timea Turdean https://github.com/solid-contrib/practitioners/pull/3
 #   preliminary RDF by Jeff Zucker 2023-11-20
 #
-#  PLEASE ADD/CORRECT VIA PR AND COMMENT ON RDF STRUCTURE VIA ISSUES
+#  PLEASE ADD/CORRECT VIA PR AND COMMENT ON RDF STRUCTURE at https://github.com/solid-contrib/practitioners/issues/5
 ####
 
 @prefix : <#> .
