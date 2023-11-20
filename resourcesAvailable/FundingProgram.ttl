@@ -17,7 +17,6 @@
   rdfs:label "Consensus Community Innovation Grants"@en ;
   schema:website <http://agree.org/> ;
   rdfs:description "?" ;
-  schema:website <http://agree.org/> ;
   roh:hasFundingProgramClassification "?" .
 
 :DDG 
