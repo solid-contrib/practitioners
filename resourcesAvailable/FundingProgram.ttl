@@ -26,13 +26,6 @@
   rdfs:description "?" ;
   roh:hasFundingProgramClassification "?" .
 
-:DAPSI
-  a roh:FundingProgram ; 
-  rdfs:label "EU DAPSI"@en ;
-  schema:website <https://dapsi.ngi.eu/> ;
-  rdfs:description "?" ;
-  roh:hasFundingProgramClassification "?" .
-
 :GithubSponsors
   a roh:FundingProgram ; 
   rdfs:label "GitHub Sponsors"@en ;
@@ -75,27 +68,38 @@
   rdfs:description "?" ;
   roh:hasFundingProgramClassification "?" .
 
-:NGIPointer
-  a roh:FundingProgram ; 
-  rdfs:label "NGI Pointer"@en ;
-  schema:website <https://www.ngi.eu/ngi-projects/ngi-pointer/> ;
-  rdfs:description "?" ;
-  roh:hasFundingProgramClassification "?" .
 
-
-:NLNET
-  a roh:FundingProgram ; 
-  rdfs:label "NLNET Foundation"@en ;
+:NLnet
+  a roh:FundingOrganisation ; 
+  rdfs:label "NLnet Foundation"@en ;
   schema:website <https://nlnet.nl> ;
-  rdfs:description "?" ;
-  roh:hasFundingProgramClassification "?" .
-
+  rdfs:description "Since 1997 NLnet foundation has been financially supporting organizations and people that contribute to an open information society. It funds those with ideas to fix the internet." .
 
 :NGI
-  a roh:FundingProgram ; 
+  a roh:FundingSource ; 
   rdfs:label "Next Generation Internet"@en ;
   schema:website <https://www.ngi.eu> ;
-  rdfs:description "?" ;
+  rdfs:description "The Next Generation Internet (NGI) is a European Commission initiative that aims to shape the development and evolution of the Internet into an Internet of Trust. An Internet that responds to people’s fundamental needs, including trust, security, and inclusion, while reflecting the values and the norms all citizens enjoy in Europe." .
+
+:NGICore
+  a roh:FundingProgram ; 
+  rdfs:label "NGI Zero Core"@en ;
+  schema:website <https://nlnet.nl/core/> ;
+  rdfs:description "Moving the internet forward." ;
+  roh:hasFundingProgramClassification "?" .
+
+:NGIEntrust
+  a roh:FundingProgram ; 
+  rdfs:label "NGI Zero Entrust"@en ;
+  schema:website <https://nlnet.nl/entrust/> ;
+  rdfs:description "Trustworthiness and data sovereignty." ;
+  roh:hasFundingProgramClassification "?" .
+
+:NGISargasso
+  a roh:FundingProgram ; 
+  rdfs:label "NGI Sargasso"@en ;
+  schema:website <https://ngisargasso.eu> ;
+  rdfs:description "Promoting the transatlantic cooperation for NGI technologies." ;
   roh:hasFundingProgramClassification "?" .
 
 
