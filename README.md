@@ -8,7 +8,8 @@ The Solid vision is of a web that empowers individuals and communities to move t
 
 To keep informed about `Solid Practitioners` :
 * Please join the discussion in the [Solid Practitioners Matrix Chatroom](https://matrix.to/#/#solid_practitioners).
-* Please set yourself as a watcher of the [Solid Practitioners Announcements Repo](https://github.com/solid-contrib/practitioners/blob/main/announcements/Announcements.md) if you wish to be informed of upcoming meetings and events.
+* Please set yourself as a watcher of the [Solid Practitioners Repo](https://github.com/solid-contrib/practitioners) and look for PRs to the `practtitioners/meetings/` and `practitioners/announements` folders to keep informed of upcoming meetings and events.
+* Online meetings will be held at https://meet.jit.si/solid-practitioners.
 
 ## Audience
 
