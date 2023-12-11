@@ -14,6 +14,8 @@ There are a number of use cases which can be addressed by having a standard shap
 * Solid Identity Providers
 * Solid Applications
 * Solid Servers
+* Solid Communication Channels
+* Solid Information Resources
 
 While it is important to develop shapes specific to each of these kinds of things (for example to differentiate Applications or types of Onboarding Resources), it  would be useful to start with a shape common to all or most of the types of resources, which is the [proposed shape](https://github.com/solid-contrib/practitioners/blob/main/working-groups/shape-for-products-and-services/basic-shape.md).
 
