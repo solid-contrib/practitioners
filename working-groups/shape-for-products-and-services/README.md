@@ -2,6 +2,8 @@
 
 A working group for developing shapes and catalogs of the products and services offered by organizations and indviduals starting with the Solid Project ecosystem as an example.
 
+Please use this [discussion](https://github.com/solid-contrib/practitioners/discussions/7) to comment on ideas for the working group.
+
 ### Motivation
 
 There are a number of use cases which can be addressed by having a standard shape for the products and services that an individual or organization creates.  To list some of these use cases needed in the Solid community now, different people are currently trying to provide catalogs of :
