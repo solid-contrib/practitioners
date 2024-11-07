@@ -7,7 +7,7 @@ Solid envisions a web that empowers individuals and communities to move towards 
 ## Communication Channels
 
 To keep informed about `Solid Practitioners`:
-* Online meetings are held at https://meet.jit.si/solid-practitioners on the first and third Thursday of each month at 14:00 UTC.  See [the meetings repo](https://github.com/solid-contrib/practitioners/tree/main/meetings)) for the upcoming schedule.
+* Online meetings are held at https://meet.jit.si/solid-practitioners on the first and third Thursday of each month at 15:00 UTC.  See [the meetings repo](https://github.com/solid-contrib/practitioners/tree/main/meetings)) for the upcoming schedule.
 * Please join the discussion in the [Solid Practitioners Matrix Chatroom](https://matrix.to/#/#solid-practitioners:matrix.org).
 * Please set yourself as a watcher of the [Solid Practitioners Repo](https://github.com/solid-contrib/practitioners) and look for PRs to the `practitioners/meetings/` and `practitioners/announcements/` folders to keep informed of upcoming meetings and events.
 
