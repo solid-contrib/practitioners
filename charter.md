@@ -30,7 +30,6 @@ In addition to our main focus — providing working sessions on challenges faced
 
 In addition to technical issues, the group's discussion will include the social impact of member projects, issues related to publicizing those projects, and the adoption of those projects by public agencies and other organizations.  We anticipate an effort to help highlight and publicize our member projects and success stories and to document best practices discovered by the group or individual projects.  This publicizing will include development of a Solid Resources Catalog, participation in public events such as Solid World and the Solid Symposium, and coordination with the solidproject.org website to highlight our member successes.
 
-
 ### Out of Scope
 
 * Marketing or evangelizing of technologies not intended to be released under a license compatible with W3C specifications. Discussion of out-of-scope solutions should be limited to elaborating upon technological and social advantages/disadvantages and applicability to member projects.
@@ -44,6 +43,8 @@ An important ongoing goal will be to provide feedback to
 1) the W3C Solid Community Group, especially on implementer experience and needs related to specifications, ontologies, shapes, and other technical infrastructure
 2) the W3C Linked Web Stroage Working Group, especially on use cases.
 3) the ODI Solid Advisory Committee especially on developer and community feedback on the goals and roadmap for the Solid Project.
+
+As part of the group's goal of publicizing and helping network member projects and to integrate member use cases in the work of the Solid Community Group, Linked Web Storage Group, and ODI, we will be developing a form to gather data on our member projects.  Members are strongly encouraged to update the form so that the broader community can follow and support their efforts and to ensure that their work contributes to the goals of Solid itself.
 
 ## Communication
 
