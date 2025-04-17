@@ -1,7 +1,7 @@
 # Solid Practitioners Group Charter
 
     Created: 2025-04-01 
-    Modified: 2025-05-07
+    Modified: 2025-04-07
     Effective: 2025-05-01
 
 ## Solid Project
