@@ -1,10 +1,8 @@
 # Solid Practitioners Group Charter
 
-**Note** this is a *proposed* charter. The community is encouraged to discuss points or propose edits by raising a github issue and/or submitting a github PR. A tight ODI timeline means your comments and edits must be submitted before April 16, 2025.
-
     Created: 2025-04-01 
     Modified: 2025-05-07
-    Effective: 2025-04-17
+    Effective: 2025-05-01
 
 ## Solid Project
 
