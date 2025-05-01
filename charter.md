@@ -6,7 +6,7 @@
 
 ## Solid Project
 
-The aims of the [Solid project](https://solidproject.org/) are in line with those of the Web itself: empowerment towards "an equitable, informed and interconnected society" [[ethical-web-principles](https://www.w3.org/TR/ethical-web-principles/)]. Solid adds to existing Web standards to realise a space where individuals and communities can maintain their autonomy, control their data and privacy, and choose applications and services to fulfill their needs. 
+The aims of the [Solid Project](https://solidproject.org/) are in line with those of the Web itself: empowerment towards "an equitable, informed and interconnected society" [[ethical-web-principles](https://www.w3.org/TR/ethical-web-principles/)]. Solid adds to existing Web standards to realise a space where individuals and communities can maintain their autonomy, control their data and privacy, and choose applications and services to fulfill their needs. 
 
 ## Solid Practitioners
 
@@ -16,7 +16,7 @@ The mission of the Solid Practitioners is to support those involved in putting t
 
 The target audience of this group is people actively working on projects aimed at specific real-world products using Solid, especially open source products, and products which promote social benefit.  Everyone interested in Solid, regardless of involvement in a project or technical skill level, is encouraged to participate while recognizing  that the discussions will be focused on challenges of member projects, not generalized developer support, although the two will certainly overlap in many cases.
 
-In addition to Solid developers and would-be devlopers, the group will seek to include domain experts in fields relevant to member projects (healthcare, transportation, housing, etc.) and technical experts from outside of Solid where their expertise is relevant to member projects.  Communnity members expressing needs that Solid may address are also encouraged to attend regardless of their knowledge of Solid or technology.
+In addition to Solid developers and would-be developers, the group will seek to include domain experts in fields relevant to member projects (healthcare, transportation, housing, etc.) and technical experts from outside of Solid where their expertise is relevant to member projects.  Community members expressing needs that Solid may address are also encouraged to attend regardless of their knowledge of Solid or technology.
 
 Projects in the global south as well as those serving marginalized communities are strongly encouraged to attend.
 
@@ -34,12 +34,12 @@ In addition to technical issues, the group's discussion will include the social 
 
 ## Coordination
 
-The Solid community with various stakeholders comes together under the umbrella of the [Solid Project](https://solidproject.org/), stewarded by the [Open Data Institute (ODI)](https://theodi.org/news-and-events/news/odi-and-solid-come-together-to-give-individuals-greater-control-over-personal-data/). Thus the Solid Practitioners Group interacts and coordinates with the Project's organisation as a whole abd will elect a representative to serve on the [ODI Solid Advisory Committee](https://theodi.org/news-and-events/news/solid-advisory-committee/).
+The Solid community with various stakeholders comes together under the umbrella of the [Solid Project](https://solidproject.org/), stewarded by the [Open Data Institute (ODI)](https://theodi.org/news-and-events/news/odi-and-solid-come-together-to-give-individuals-greater-control-over-personal-data/). Thus the Solid Practitioners Group interacts and coordinates with the Project's organisation as a whole and will elect a representative to serve on the [ODI Solid Advisory Committee](https://theodi.org/news-and-events/news/solid-advisory-committee/).
 
 An important ongoing goal will be to provide feedback to 
 
 1) the W3C Solid Community Group, especially on implementer experience and needs related to specifications, ontologies, shapes, and other technical infrastructure
-2) the W3C Linked Web Stroage Working Group, especially on use cases.
+2) the W3C Linked Web Storage Working Group, especially on use cases.
 3) the ODI Solid Advisory Committee especially on developer and community feedback on the goals and roadmap for the Solid Project.
 
 As part of the group's goal of publicizing and helping network member projects and to integrate member use cases in the work of the Solid Community Group, Linked Web Storage Group, and ODI, we will be developing a form to gather data on our member projects.  Members are strongly encouraged to update the form so that the broader community can follow and support their efforts and to ensure that their work contributes to the goals of Solid itself.
@@ -50,7 +50,7 @@ All discussions for the Practitioners Group are conducted in public: the meeting
 
 * Meeting notices and minutes as well as issue discussions are available at https://github.com/solid-contrib/practitioners/
 * Online meetings are held at https://meet.jit.si/solid-practitioners
-* More informal discussion is encouraged int the https://matrix.to/#/#solid-practitioners:matrix.org
+* More informal discussion is encouraged in the https://matrix.to/#/#solid-practitioners:matrix.org
 * Video recordings of some meetings are available at https://spectra.video/c/solid_practitioners
 
 A public mailing list for general discussions and announcements is under development.
@@ -70,7 +70,7 @@ The Practitioners Group will use the following licenses for its artefacts:
 + Other reports will be released under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
 + Software artefacts developed by the Practitioners Group as a whole may be released either under the [MIT License](https://opensource.org/license/mit), the [Apache License 2.0](https://www.apache.org/licenses/LICENSE-2.0) or [Mozilla Public License 2.0](https://www.mozilla.org/en-US/MPL/2.0/).
 
-The Practioners Group strongly encourages its participants, as well as other stakeholders in the Solid ecosystem, to use an [OSI approved license](https://opensource.org/license/) for any open source software conforming to Solid specifications.
+The Practitioners Group strongly encourages its participants, as well as other stakeholders in the Solid ecosystem, to use an [OSI approved license](https://opensource.org/license/) for any open source software conforming to Solid specifications.
 
 
 ## Community Group Process
@@ -113,7 +113,7 @@ Any participant found in violation of Solid Code of Conduct that leads to a sanc
 * Reelection is restricted to three consecutive terms, with the possibility of being re-elected after sitting out one election cycle.
 * Current chairs will select a date for elections, with a nomination period of one weeks starting two weeks prior to the election.
 * For an individual to run for election, they must self-nominate and make a statement regarding their background and why they are running, and their organizational affiliation on the group mailing list or github repository.
-* The current chairs shall be responible for determining the eligibility of the nominee, provided they are not a candidate. In case, no chair is available to meet this criterion, a 
+* The current chairs shall be responsible for determining the eligibility of the nominee, provided they are not a candidate. In case, no chair is available to meet this criterion, a 
 * The current chairs will host a conference call during the nomination period, during which candidates may make a statement and answer questions from the community.
 * If, at the end of nominations, any given seat only has a single candidate, that candidate immediately wins that seat. There will be an election for any seat(s) with multiple nominees.
 * If, after nominations, any given seat has no candidates, the remaining chairs after any election (if necessary for other seats), will address the vacancy as an interim vacancy, described above.
@@ -133,9 +133,9 @@ Any participant found in violation of Solid Code of Conduct that leads to a sanc
 
 ## Amendments to this Charter
 
-* Participants may propose amendments to the charter by making a formal request to the Chairs. The chairs for a call for principled objections to the ammendment. If, after a period of two weeks, no principled objections have been presented by a current participants of the group, the ammendment is approved.
+* Participants may propose amendments to the charter by making a formal request to the Chairs. The chairs shall issue a call for principled objections to the amendment. If, after a period of two weeks, no principled objections have been presented by current participants of the group, the amendment is approved.
 * If a principled objection is posted to the mailing list or expressed in a regular call, then the chairs may either drop the amendment or proceed with a public vote.
-* A public vote for on the ammendment must be called by the chairs within two weeks of the principled objection.
-* Such a vote will be open for two weeks, with ballots cast via the group’s public mailing list. Each participant of the group eligible to vote may cast one ballot, “yea” or “nay”. An ammendment must receive “yea” on two-thirds of the votes cast, and the total votes cast must represent 5% or greater of the group's participants eligible to vote, to pass.
+* A public vote for on the amendment must be called by the chairs within two weeks of the principled objection.
+* Such a vote will be open for two weeks, with ballots cast via the group’s public mailing list. Each participant of the group eligible to vote may cast one ballot, “yea” or “nay”. An amendment must receive “yea” on two-thirds of the votes cast, and the total votes cast must represent 5% or greater of the group's participants eligible to vote, to pass.
 * The group will use the amendment process for any substantive changes to the goals, scope, deliverables, decision process or rules for amending the charter.
 * Changes to the Coordination does not constitute an amendment to the charter that requires a rechartering vote.
