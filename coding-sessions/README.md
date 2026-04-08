@@ -1,0 +1,1 @@
+This folder is for agendas, notes, and other materials realted to the Solid Practitioners coding sessions.  The sessions are currently held on the second Thusday of the month at 15:00 utc in https://meet.jit.si/solid-practitioners, all are welcome.
